@@ -9,5 +9,3 @@
 👫 I am always looking to collaborate on open source projects where I can use my skills and knowledge to solve real-world problems. I am highly proficient in **Python** and have extensive experience with many of its libraries, particularly those related to ML training, monitoring, and deployment. I am also skilled in building APIs and full-stack applications using **Python** and **React**.
 
 📧 If you'd like to get in touch, the easiest way to reach me is through the email address listed on my profile. I welcome the opportunity to connect and collaborate with others in the industry.
-
-🐐 Oh, and fun fact: did you know that the pupils of goats and octopuses are rectangular? 
