@@ -1,8 +1,6 @@
 ### Hello there! 👋
 
-💻 I am Alberto, a passionate and dedicated **Machine Learning Engineer** currently working in the **Real Estate** industry at **@casavo**. With a background in **Computer Science and Engineering**, I have a strong foundation in and enthusiasm for a variety of technical subjects, including **machine learning**, computer science, electronics, and cybersecurity.
-
-🦄 As a Machine Learning Engineer at Casavo, I am responsible for designing and implementing machine learning models and algorithms for the real estate market. This includes enabling seller-buyer matches, as well as improving our proprietary AVM and computer vision models for real-time seller home valuation and analysis. I am dedicated to my work and always looking for ways to learn and grow in my field.
+💻 I am Alberto, a passionate and dedicated **Machine Learning Engineer** currently working in the Applied Science team at **@DocuSign**. With a background in **Computer Science and Engineering**, I have a strong foundation in and enthusiasm for a variety of technical subjects, including **machine learning**, computer science, electronics, and cybersecurity.
 
 🧪 In addition to my professional responsibilities, I am also actively learning about new and emerging technologies in the field of machine learning. Recently, I have been exploring the concept of **stable diffusion** and experimenting with **DreamBooth** to fine-tune a model on my portrait. It's a fascinating technology and I find it truly mesmerizing.
 
