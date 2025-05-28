@@ -13,7 +13,6 @@ Have a soft spot for **information extraction**, **document understanding**, and
 
 ### Recent Experiments
 - **NLP at Scale**: Transformer pipelines for document processing, because regex isn't always the answer
-- **Distributed Training**: Making models learn faster across multiple GPUs without breaking the bank
 - **Research**: Combined GPT-2 with vision encoders for visual question answering back when that was still novel ([code](https://github.com/ab3llini/Transformer-VQA))
 - **Side Quest**: Built a differentiable tensor engine in Rust because why not ([carbon](https://github.com/ab3llini/carbon))
 
