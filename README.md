@@ -1,9 +1,24 @@
-### Hello there! 👋
+## Alberto Bellini
 
-💻 I am Alberto, a passionate and dedicated **Machine Learning Engineer** currently working in the Applied Science team at **@DocuSign**. With a background in **Computer Science and Engineering**, I have a strong foundation in and enthusiasm for a variety of technical subjects, including **machine learning**, computer science, electronics, and cybersecurity.
+**Machine Learning Engineer @ DocuSign Applied Science**
 
-🧪 In addition to my professional responsibilities, I am also actively learning about new and emerging technologies in the field of machine learning. Recently, I have been exploring the concept of **stable diffusion** and experimenting with **DreamBooth** to fine-tune a model on my portrait. It's a fascinating technology and I find it truly mesmerizing.
+Currently wrangling terabytes of documents and building NLP systems that actually work in production. Previously made real estate pricing models less wrong and co-founded an AI startup.
 
-👫 I am always looking to collaborate on open source projects where I can use my skills and knowledge to solve real-world problems. I am highly proficient in **Python** and have extensive experience with many of its libraries, particularly those related to ML training, monitoring, and deployment. I am also skilled in building APIs and full-stack applications using **Python** and **React**.
+### What I'm Into
+Obsessed with **large-scale NLP** and the beautiful chaos of **distributed systems**. Love the challenge of taking transformer models from "works on my laptop" to "processes millions of documents without falling over."  
 
-📧 If you'd like to get in touch, the easiest way to reach me is through the email address listed on my profile. I welcome the opportunity to connect and collaborate with others in the industry.
+Deep in the **Spark + Databricks** ecosystem, building ETL pipelines that don't make you want to throw your laptop out the window. Comfortable juggling **PyTorch transformers**, **distributed training**, and the occasional **Rust** side project when Python feels too slow.
+
+Have a soft spot for **information extraction**, **document understanding**, and making LLMs do useful things beyond writing poetry. Also enjoy the dark arts of **MLOps** - because someone has to make sure your beautiful model actually runs in production.
+
+### Recent Experiments
+- **NLP at Scale**: Transformer pipelines for document processing, because regex isn't always the answer
+- **Distributed Training**: Making models learn faster across multiple GPUs without breaking the bank
+- **Research**: Combined GPT-2 with vision encoders for visual question answering back when that was still novel ([code](https://github.com/ab3llini/Transformer-VQA))
+- **Side Quest**: Built a differentiable tensor engine in Rust because why not ([carbon](https://github.com/ab3llini/carbon))
+
+**Stack**: Python • PyTorch • Transformers • Spark • Databricks • Kubernetes • Rust • SQL (yes, it counts)
+
+Currently exploring how far we can push transformer architectures before they become sentient 🤖
+
+📧 Always down to chat about NLP, distributed systems, or why your model isn't converging
